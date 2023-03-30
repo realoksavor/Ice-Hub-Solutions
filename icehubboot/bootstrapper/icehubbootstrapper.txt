@@ -1,0 +1,13 @@
+-- // ICE HUB BOOTSTRAPPER -- \\
+local autorapbattlesid = 579955134
+
+
+-- x --
+if game.PlaceID == autorapbattlesid then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/Lyhpb8bW')))()
+else
+    game.Players.LocalPlayer:Kick("Game not supported.")
+end
+
+-- / more things will be added soon, in the meantime we only support ARB.
+
