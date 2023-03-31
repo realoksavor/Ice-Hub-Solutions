@@ -1,13 +1,14 @@
 -- // ICE HUB BOOTSTRAPPER -- \\
 local autorapbattlesid = 579955134
-
+local getasnackat4amid = 6165106805
 
 -- x --
 if game.PlaceID == autorapbattlesid then
     loadstring(game:HttpGet(('https://pastebin.com/raw/Lyhpb8bW')))()
+elseif game.PlaceID == getasnackat4amid then
+    loadstring(game:HttpGet(('https://pastebin.com/raw/upcddQiQ')))()
 else
-    game.Players.LocalPlayer:Kick("Game not supported.")
+    loadstring(game:HttpGet(('https://pastebin.com/raw/e1VXvqUy')))()
 end
 
--- / more things will be added soon, in the meantime we only support ARB.
-
+-- / more things will be added soon, in the meantime we only support ARB and Get A Snack at 4am.
